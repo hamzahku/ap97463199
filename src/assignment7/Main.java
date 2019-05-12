@@ -37,6 +37,5 @@ public class Main {
             System.out.format("%s\n", shape.toString());
         }
 
-
     }
 }
